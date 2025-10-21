@@ -1,6 +1,6 @@
 ## 🎯 Flutter & Dart Quiz Challenge
 
-Beautiful, modern, and responsive quiz app built with Flutter. Soft dark theme, elegant gradients, delightful micro-interactions, and a smooth 15s per-question timer for an engaging learning experience.
+Beautiful, modern, and responsive trivon app built with Flutter. Soft dark theme, elegant gradients, delightful micro-interactions, and a smooth 15s per-question timer for an engaging learning experience.
 
 <div align="center">
 
