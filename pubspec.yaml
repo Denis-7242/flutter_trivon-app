@@ -1,6 +1,7 @@
 name: flutter_quiz_app_split
 description: A Flutter quiz app for Flutter & Dart (split files, animations).
 publish_to: 'none'
+
 version: 1.0.0+1
 
 environment:
@@ -14,6 +15,14 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/quiz.png
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/quiz.png
